@@ -1,0 +1,12 @@
+1. Create a snake body.
+2. Move the snake.
+3. Control the snake.
+4. Detech collision with food.
+5. Create a score board.
+6. Detect collision with the wall.
+7. Detect collision with the tail.
+
+
+#Never ever memorize any code. Understand how code works. Everything is online these days. So, after you understand how something is working
+you can basically google it and get the format and use that in the code. So, understand how the code is working, what are the things used.
+Then if you forget the syntax then google it and use it in your code becuase you know how the code works.
